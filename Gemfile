@@ -10,7 +10,7 @@ group :development, :test do
   gem 'guard-rspec', '1.2.1'
    gem 'guard-spork', '1.2.0'
   gem 'spork', '0.9.2'
-  gem 'wdm', '~> 0.0.3'
+  
 
 end
 
@@ -32,7 +32,7 @@ group :test do
   gem 'capybara', '1.1.2'
   gem 'rb-fchange', '0.0.5'
   gem 'rb-notifu', '0.0.4'
-  gem 'win32console', '1.3.0'
+  
 end 
 
 
